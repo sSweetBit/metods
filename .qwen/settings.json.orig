@@ -6,6 +6,5 @@
       "Bash(move *)",
       "Bash(rmdir *)"
     ]
-  },
-  "$version": 3
+  }
 }
